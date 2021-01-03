@@ -1,4 +1,4 @@
-# Python-Native-Enviroment-Commands
+# Python Native Enviroment Commands
 Python Native Enviroment Commands - Making and controling enviroments.
 
 ## List the pip packages of your global set, or an enviroment set:
