@@ -1,16 +1,16 @@
-# Python Native Enviroment Commands
-Python Native Enviroment Commands - Making and controling enviroments in python.
+# Python Native Environment Commands
+Python Native Environment Commands - Making and controling environments in python.
 
-## List the pip packages of your global set, or an enviroment set:
+## List the pip packages of your global set, or an environment set:
     `pip3 list`
 
-## Make a new enviroment:
+## Make a new environment:
     `python3 -m venv <add project env name here>` 
 
-## Activate enviroment:
+## Activate environment:
     `source <add project env name here>/bin/activate`
 
-## Check to see which python you are in (enviroment, or global):
+## Check to see which python you are in (environment, or global):
     `which python`
 
 ## Install packages:
@@ -25,14 +25,14 @@ Python Native Enviroment Commands - Making and controling enviroments in python.
 ## Check requirments:
     `cat requirments.txt`
 
-## Deactivate enviroment:
+## Deactivate environment:
     `deactivate`
 
-## Delete enviroment:
+## Delete environment:
     `rm -rf <add project env name here>`
 
-## Add a pre-made requirments file to a new enviroment:
+## Add a pre-made requirments file to a new environment:
     `pip install -r requirments.txt`
 
-## Put all global package into an enviroment:
+## Put all global package into an environment:
     `python3 -m venv <add project env name here> --system-site-packages`
