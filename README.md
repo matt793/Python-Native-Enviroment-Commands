@@ -1,5 +1,5 @@
 # Python Native Environment Commands
-Python Native Environment Commands - Making and controling environments in python.
+`Python Native Environment Commands - Making and controling environments in python.`
 
 ## List the pip packages of your global set, or an environment set:
     `pip3 list`
